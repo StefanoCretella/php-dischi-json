@@ -1,0 +1,44 @@
+[
+    {
+      "titolo": "New Jersey",
+      "artista": "Bon Jovi",
+      "anno": "1988",
+      "genere": "Rock",
+      "copertina": "assets/img/bon-jovi.jpg"
+    },
+    {
+      "titolo": "Live at Wembley 86",
+      "artista": "Queen",
+      "anno": "1992",
+      "genere": "Rock",
+      "copertina": "assets/img/queen.jpg"
+    },
+    {
+      "titolo": "Ten's Summoner's Tales",
+      "artista": "Sting",
+      "anno": "1993",
+      "genere": "Rock",
+      "copertina": "assets/img/sting.jpg"
+    },
+    {
+      "titolo": "Steve Gadd band",
+      "artista": "Steve Gadd Band",
+      "anno": "2018",
+      "genere": "Jazz",
+      "copertina": "assets/img/steve-gadd-band.jpg"
+    },
+    {
+      "titolo": "Brave new World",
+      "artista": "Iron Maiden",
+      "anno": "2000",
+      "genere": "Heavy Metal",
+      "copertina": "assets/img/iron-maiden.jpg"
+    },
+    {
+      "titolo": "One more car, one more rider",
+      "artista": "Eric Clapton",
+      "anno": "2002",
+      "genere": "Blues Rock",
+      "copertina": "assets/img/eric-clapton.jpg"
+    }
+]
